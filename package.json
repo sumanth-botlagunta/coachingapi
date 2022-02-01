@@ -1,0 +1,21 @@
+{
+  "name": "coaching-api",
+  "version": "1.0.0",
+  "description": "api for coaching app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run",
+    "dev": "nodemon start"
+  },
+  "keywords": [
+    "coaching",
+    "api"
+  ],
+  "author": "sumanth",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1"
+  }
+}
